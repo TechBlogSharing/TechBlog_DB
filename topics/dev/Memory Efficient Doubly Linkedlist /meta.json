@@ -1,7 +1,10 @@
 {
     "author":"Nguyễn Đăng Khoa",
     "jobTitle":"Java Intern",
+    "thumnail":"https://media.geeksforgeeks.org/wp-content/uploads/20230817161434/XOR-Linked-List-Banner.png",
+    "profile":"https://github.com/Nguyen-Dang-Khoa-04072004",
     "avartar":"https://avatars.githubusercontent.com/u/190394777",
     "publishDay":"Jun 27, 2025",
-    "min":"9"
+    "min":"9",
+    "description": "The memory-efficient doubly linked list uses only one pointer to traverse the list in both directions. This is achieved by using a bitwise XOR operator to store the front and rear pointer addresses. Rather than storing the actual memory addresses, each node stores the XOR address of the previous and next nodes."
 }
