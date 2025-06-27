@@ -5,6 +5,6 @@
     "profile":"https://github.com/Nguyen-Dang-Khoa-04072004",
     "avartar":"https://avatars.githubusercontent.com/u/190394777",
     "publishDay":"Jun 27, 2025",
-    "min":"9",
-    "description": "The memory-efficient doubly linked list uses only one pointer to traverse the list in both directions. This is achieved by using a bitwise XOR operator to store the front and rear pointer addresses. Rather than storing the actual memory addresses, each node stores the XOR address of the previous and next nodes."
+    "min":"5",
+    "description": "EngFlash mang đến một giải pháp học tiếng Anh toàn diện với thẻ ghi nhớ. Ứng dụng không chỉ sử dụng công nghệ flashcard và thuật toán spaced repetition để tối ưu hóa quá trình ghi nhớ mà còn tích hợp các tính năng thông báo tự động và trích xuất collection từ video, giúp mở rộng phạm vi học tập và cập nhật kiến thức theo thời gian thực. EngFlash giúp đáp ứng nhu cầu ngày càng cao của người học trong việc xây dựng vốn từ vựng một cách hiệu quả."
 }
